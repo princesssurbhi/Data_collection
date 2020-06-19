@@ -1,0 +1,20 @@
+06:1b:da:a5:c2:0e,BSNL WiFi,-83,10/30/2019 20:35:27
+12:1b:da:a5:c2:0e,BSNL-RoamIN-WiFi,-84,10/30/2019 20:35:27
+0e:1b:da:a5:c2:0e,BSNL Broad Fi,-84,10/30/2019 20:35:27
+0a:1b:da:a5:c2:0e,BSNL 4G plus,-84,10/30/2019 20:35:27
+12:1b:da:a5:ab:c5,BSNL-RoamIN-WiFi,-85,10/30/2019 20:35:27
+0e:1b:da:a5:ab:c5,BSNL Broad Fi,-86,10/30/2019 20:35:27
+0a:1b:da:a5:ab:c5,BSNL 4G plus,-86,10/30/2019 20:35:27
+06:1b:da:a5:ab:c5,BSNL WiFi,-86,10/30/2019 20:35:27
+00:a0:0a:1b:15:61,JioNet@Durgapur_Women,-87,10/30/2019 20:35:27
+00:a0:0a:35:54:60,JioPrivateNet,-89,10/30/2019 20:35:27
+00:a0:0a:1b:69:e1,JioNet@Durgapur_Women,-88,10/30/2019 20:36:03
+12:1b:da:a5:ab:c5,BSNL-RoamIN-WiFi,-89,10/30/2019 20:36:03
+0e:1b:da:a5:ab:c5,BSNL Broad Fi,-89,10/30/2019 20:36:03
+0a:1b:da:a5:ab:c5,BSNL 4G plus,-89,10/30/2019 20:36:03
+00:a0:0a:35:54:60,JioPrivateNet,-89,10/30/2019 20:36:03
+00:a0:0a:35:54:61,JioNet@Durgapur_Women,-90,10/30/2019 20:36:03
+80:26:89:ba:e3:12,D-Link,-81,10/30/2019 20:39:05
+10:62:eb:19:0e:cd,D-Link_DIR-600M,-88,10/30/2019 20:41:06
+60:63:4c:5d:a1:69,SUBHAS,-86,10/30/2019 20:42:06
+58:d5:6e:86:f7:8a,A_BHUI,-90,10/30/2019 20:42:06

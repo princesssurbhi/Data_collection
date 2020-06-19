@@ -1,0 +1,5 @@
+06:1b:da:a5:ab:c5,BSNL WiFi,-78,10/30/2019 20:49:52
+0a:1b:da:a5:ab:c5,BSNL 4G plus,-78,10/30/2019 20:49:52
+0e:1b:da:a5:ab:c5,BSNL Broad Fi,-78,10/30/2019 20:49:52
+12:1b:da:a5:ab:c5,BSNL-RoamIN-WiFi,-83,10/30/2019 20:49:52
+00:a0:0a:1b:15:61,JioNet@Durgapur_Women,-84,10/30/2019 20:49:52

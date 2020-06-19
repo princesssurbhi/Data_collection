@@ -1,0 +1,8 @@
+0e:1b:da:a5:c2:0e,BSNL Broad Fi,-78,10/30/2019 21:19:16
+12:1b:da:a5:c2:0e,BSNL-RoamIN-WiFi,-78,10/30/2019 21:19:16
+0a:1b:da:a5:ab:c5,BSNL 4G plus,-79,10/30/2019 21:19:16
+0e:1b:da:a5:ab:c5,BSNL Broad Fi,-79,10/30/2019 21:19:17
+0a:1b:da:a5:c2:0e,BSNL 4G plus,-79,10/30/2019 21:19:17
+12:1b:da:a5:ab:c5,BSNL-RoamIN-WiFi,-80,10/30/2019 21:19:17
+06:1b:da:a5:ab:c5,BSNL WiFi,-81,10/30/2019 21:19:17
+06:1b:da:a5:c2:0e,BSNL WiFi,-81,10/30/2019 21:19:17
