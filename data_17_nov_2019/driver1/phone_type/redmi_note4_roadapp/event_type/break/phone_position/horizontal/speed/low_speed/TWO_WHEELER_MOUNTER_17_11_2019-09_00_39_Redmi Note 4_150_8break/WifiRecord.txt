@@ -1,0 +1,17 @@
+04:d1:3a:03:85:2d,Redmix,-37,11/17/2019 21:00:40
+00:a0:0a:35:54:60,JioPrivateNet,-88,11/17/2019 21:00:40
+00:a0:0a:35:54:61,JioNet@Durgapur_Women,-88,11/17/2019 21:00:40
+00:a0:0a:39:3c:00,JioPrivateNet,-92,11/17/2019 21:00:40
+00:a0:0a:1b:18:e0,JioPrivateNet,-85,11/17/2019 21:00:40
+00:a0:0a:1b:18:e1,JioNet@Durgapur_Women,-85,11/17/2019 21:00:40
+12:1b:da:a5:c3:53,BSNL-RoamIN-WiFi,-87,11/17/2019 21:00:40
+0a:1b:da:a5:c3:53,BSNL 4G plus,-89,11/17/2019 21:00:40
+06:1b:da:a5:c3:53,BSNL WiFi,-90,11/17/2019 21:00:40
+00:a0:0a:35:88:61,JioNet@Durgapur_Women,-94,11/17/2019 21:00:40
+0e:1b:da:a5:c3:53,BSNL Broad Fi,-88,11/17/2019 21:00:40
+00:a0:0a:35:88:c0,JioPrivateNet,-91,11/17/2019 21:00:40
+00:a0:0a:35:6b:80,JioPrivateNet,-93,11/17/2019 21:00:40
+00:a0:0a:35:53:c0,JioPrivateNet,-94,11/17/2019 21:00:40
+00:a0:0a:39:3c:01,JioNet@Durgapur_Women,-94,11/17/2019 21:00:40
+00:a0:0a:35:6b:81,JioNet@Durgapur_Women,-94,11/17/2019 21:00:40
+00:a0:0a:35:88:c1,JioNet@Durgapur_Women,-94,11/17/2019 21:00:40
